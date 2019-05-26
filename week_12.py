@@ -124,7 +124,6 @@ def modify(li):
 list = [1, 2, 3, 4, 5]
 print(list)
 modify(list)
-print(list)cate entry)
 
 #모듈 사용
 
